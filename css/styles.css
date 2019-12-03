@@ -1,5 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
   }
 
   .topnav {
@@ -27,4 +28,12 @@ body {
     position: absolute;
     left: 0;
     top: 0;
+  }
+
+  .title {
+    text-align: center;
+  }
+
+  .projectList {
+    list-style-type: none;
   }
